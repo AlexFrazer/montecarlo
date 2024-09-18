@@ -1,0 +1,7002 @@
+[
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Mary",
+        "Rank": 74
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Maria",
+        "Rank": 29
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Alice",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Margaret",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Helen",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Frances",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Dorothy",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Elizabeth",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Josephine",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Ruth",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Nellie",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Isabel",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Martha",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Betty",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Lucy",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Lupe",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Carmen",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Esther",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Grace",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Annie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Bertha",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Eva",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Evelyn",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Julia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Mercedes",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Pauline",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Rose",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Virginia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Agnes",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Emma",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Irene",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Jennie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Jessie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Katherine",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Louise",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Rita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Ruby",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Beatrice",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Clara",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Ella",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Lucille",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Marguerite",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Petra",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Susie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Alicia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Amelia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Anna",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Aurora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Edna",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Eleanor",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Jane",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Laura",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Lillian",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Mildred",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Minnie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Rosa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Thelma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1910,
+        "Name": "Theresa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Mary",
+        "Rank": 67
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Maria",
+        "Rank": 32
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Carmen",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Margaret",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Helen",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Ruth",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Dorothy",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Josephine",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Alice",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Elizabeth",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Florence",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Irene",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Rose",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Edith",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Katherine",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Frances",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Grace",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Marie",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Virginia",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Clara",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Julia",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Ramona",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Rita",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Anita",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Emma",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Hazel",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Martha",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Amelia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Anna",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Antonia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Bessie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Edna",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Esther",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Gertrude",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Jessie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Louise",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Lucy",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Lupe",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Margarita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Mildred",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Nellie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Viola",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Aurora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Connie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Cruz",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Dolores",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Eva",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Francisca",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Jennie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Josefina",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Lillian",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Maggie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Mercedes",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Pauline",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Rachel",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Stella",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Thelma",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Adela",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Amalia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Angelita",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Angie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Artemisa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Ethel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Georgia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Juanita",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Laura",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Mabel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Minnie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Pearl",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Susie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1911,
+        "Name": "Theresa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Mary",
+        "Rank": 100
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Maria",
+        "Rank": 34
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Helen",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Margaret",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ruth",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Dorothy",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Elizabeth",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Josephine",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Carmen",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Marie",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Frances",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Louise",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Virginia",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Alice",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Anita",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Rita",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Grace",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lupe",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Rose",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Jessie",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Nellie",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Annie",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Julia",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Martha",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Pauline",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Anna",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Dolores",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Evelyn",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Irene",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ada",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Amelia",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Betty",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Edna",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Gertrude",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Esther",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Eva",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Hazel",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lillian",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lola",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lucy",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Thelma",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Angelita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Beatrice",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Concepcion",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Emma",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Inez",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Juanita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Laura",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Mildred",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Minnie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Rosa",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Agnes",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Angela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Antonia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Clara",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Dora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Edith",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Eleanor",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Guadalupe",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Jennie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Josefina",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Juana",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Katherine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lucille",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Margarita",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Pearl",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ramona",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Aurora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Bertha",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Catherine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Christine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Consuelo",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Elisa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ellen",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Elsie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Francisca",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ida",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Jane",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Jean",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Lena",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Leona",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Marian",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Marion",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Marjorie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Nancy",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Olive",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Ruby",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Susie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Teresa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Velma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1912,
+        "Name": "Viola",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Mary",
+        "Rank": 103
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Margaret",
+        "Rank": 38
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Maria",
+        "Rank": 33
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Frances",
+        "Rank": 31
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Dorothy",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Ruth",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Helen",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Virginia",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Alice",
+        "Rank": 24
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Josephine",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Louise",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Nellie",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Evelyn",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Julia",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Anna",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Elizabeth",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Eva",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Mildred",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Ruby",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Marie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Bertha",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Juanita",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lupe",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Rose",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Anita",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Carmen",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Florence",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Isabel",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lillian",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lucille",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Esther",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lucy",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Victoria",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Agnes",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Catherine",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Clara",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Edith",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Ida",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Jennie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Laura",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Marjorie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Adelina",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Amelia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Annie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Celia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Edna",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Hazel",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Katherine",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Pearl",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Rosa",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Antonia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Charlotte",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Dolores",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Ethel",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Genevieve",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Gladys",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Grace",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Guadalupe",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Jean",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Jessie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Margarita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Pauline",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Sally",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Thelma",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Ann",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Beatrice",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Connie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Emily",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Isabelle",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lena",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Leona",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Luz",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lydia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Rita",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Vera",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Alicia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Amalia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Andrea",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Christine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Concepcion",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Concha",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Doris",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Emma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Faye",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Hilda",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Irene",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Jane",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Josefina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Lola",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Mae",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Marion",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Martha",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Minnie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Petra",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Stella",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1913,
+        "Name": "Susie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Mary",
+        "Rank": 133
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Dorothy",
+        "Rank": 43
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Helen",
+        "Rank": 41
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Josephine",
+        "Rank": 40
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Margaret",
+        "Rank": 39
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Frances",
+        "Rank": 37
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Maria",
+        "Rank": 37
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ruth",
+        "Rank": 37
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Virginia",
+        "Rank": 29
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Alice",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Carmen",
+        "Rank": 24
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Mildred",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Elizabeth",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Esther",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Rose",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Eleanor",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Louise",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lucille",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lupe",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Dolores",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Evelyn",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Julia",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Nellie",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Rita",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Edith",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Irene",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Anita",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Bertha",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Clara",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Betty",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Florence",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Isabel",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Sally",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Amelia",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Dora",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Edna",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Juana",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ramona",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Vivian",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Anna",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Bessie",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Blanche",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Eva",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Mercedes",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Pauline",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Petra",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ruby",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Sarah",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Agnes",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Angelita",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Emma",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Gladys",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Hazel",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Laura",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lillian",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lucy",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Consuelo",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ethel",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Guadalupe",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ida",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Jessie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Katherine",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lena",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Marian",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Marjorie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Susie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ella",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Marion",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Martha",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Rosa",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Theresa",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Adeline",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ann",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Barbara",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Beatrice",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Bernice",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Catherine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Elisa",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ernestine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Flora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Gertrude",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Grace",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Hilda",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Jennie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Juanita",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Leona",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lois",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Mabel",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Maggie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Mamie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Manuela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Margarita",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Marguerite",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Marie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Pearl",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Teresa",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Ada",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Adela",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Adelina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Amalia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Antonia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Celia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Concha",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Cora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Delia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Doris",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Esperanza",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Francisca",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Georgia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Herminia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Jane",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Jeanette",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Kathryn",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lorraine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Lydia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Martina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Melba",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Sara",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Victoria",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Viola",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1914,
+        "Name": "Wanda",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Mary",
+        "Rank": 158
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Helen",
+        "Rank": 57
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Virginia",
+        "Rank": 50
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Dorothy",
+        "Rank": 49
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Maria",
+        "Rank": 49
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ruth",
+        "Rank": 43
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Margaret",
+        "Rank": 39
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Elizabeth",
+        "Rank": 36
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Mildred",
+        "Rank": 36
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Carmen",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Frances",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Dolores",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Eva",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lupe",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Alice",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Anita",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Anna",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Esther",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Irene",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Josephine",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Edith",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Thelma",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Clara",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Eleanor",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Vera",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Bertha",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Florence",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Jessie",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Julia",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Martha",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ida",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rose",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Edna",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Emma",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Katherine",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Laura",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lillian",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Louise",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Nellie",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rosa",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ruby",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Betty",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Grace",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Marjorie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Patricia",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Aurora",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Dora",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Doris",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Evelyn",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Georgia",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Juanita",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lucy",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Pauline",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Petra",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Vivian",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Agnes",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Bessie",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Genevieve",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lucille",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Margarita",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Amelia",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ann",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Annie",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Beatrice",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Catherine",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ellen",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Elsie",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Jean",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Jennie",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lois",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rita",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Stella",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Barbara",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Connie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Consuelo",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Della",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Gladys",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Hazel",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Inez",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Isabel",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Jane",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Mercedes",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Sarah",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Bernice",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Celia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Eloise",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Elvira",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Leonor",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Lydia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Minnie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Phyllis",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ramona",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Teresa",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Alma",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Angelita",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Armida",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Caroline",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Delfina",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Emily",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Gertrude",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Guadalupe",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Hortensia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Juana",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Olga",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Socorro",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Viola",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Violet",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Adela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Angela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Angelina",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Antonia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Blanche",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Christine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Cora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Cruz",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Geneva",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Gloria",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "June",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Manuela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Myrtle",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rebecca",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rosario",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Sally",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ada",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Adelina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Alberta",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Carolina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Cecelia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Concha",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Ella",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Esperanza",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Fay",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Francisca",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Henrietta",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Hope",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Isabelle",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Josefina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Mabel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Marian",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Maxine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Mona",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Nancy",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Nora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Olive",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Pearl",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Rachel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Sadie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Sara",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Victoria",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1915,
+        "Name": "Wilma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mary",
+        "Rank": 191
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Maria",
+        "Rank": 76
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Helen",
+        "Rank": 64
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Dorothy",
+        "Rank": 62
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Margaret",
+        "Rank": 55
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Frances",
+        "Rank": 51
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ruth",
+        "Rank": 45
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Carmen",
+        "Rank": 44
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Virginia",
+        "Rank": 43
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Alice",
+        "Rank": 39
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Eva",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Evelyn",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Josephine",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Louise",
+        "Rank": 31
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mildred",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Grace",
+        "Rank": 28
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Rose",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lupe",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Esther",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lillian",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Marie",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Nellie",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Thelma",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Elizabeth",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Irene",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lucille",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Dolores",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Hazel",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Julia",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Juanita",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Katherine",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lucy",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Anita",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Beatrice",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Betty",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Edith",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Florence",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Jennie",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Antonia",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Eleanor",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Adela",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Adelina",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Bertha",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Elvira",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ethel",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Gertrude",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Isabel",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Marjorie",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Pauline",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Barbara",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Bessie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Celia",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Consuelo",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Jane",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Jessie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Victoria",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Amalia",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Edna",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Jean",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Laura",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lena",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Martha",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Teresa",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Anna",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Dora",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Henrietta",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "June",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Kathryn",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lydia",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Rita",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ida",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ruby",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Stella",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Trinidad",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ann",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Annie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Charlotte",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Doris",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ellen",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Genevieve",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lois",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Manuela",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Minnie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Nina",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Pearl",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Socorro",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Sophie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Velma",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Viola",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Amelia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Angelita",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Bernice",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Caroline",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Christine",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Clara",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Emma",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Gladys",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Margarita",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Marian",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Myrtle",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Nora",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Rebecca",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Rosa",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Sarah",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Theresa",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Agnes",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Alicia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Angelina",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Aurora",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Blanche",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Connie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Delia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Georgia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Guadalupe",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Inez",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lola",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mabel",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Marguerite",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Marion",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mercedes",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mercy",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ramona",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Roberta",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Vera",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Aurelia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Bonnie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Catherine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Cecilia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Della",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ella",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Emily",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Fern",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Francis",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Leah",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Louisa",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mollie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Opal",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Phyllis",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Rafaela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Sylvia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Angela",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Armida",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Concepcion",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Cora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Elena",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ernestine",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Fannie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Flora",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Harriet",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Herminia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Hilda",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Hortencia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Hortensia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Ina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Jewel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Josefina",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Lillie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Mae",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Miriam",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Molly",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Norma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Sally",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Soledad",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Susie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Tillie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1916,
+        "Name": "Vivian",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mary",
+        "Rank": 218
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Maria",
+        "Rank": 122
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Margaret",
+        "Rank": 76
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Helen",
+        "Rank": 74
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Virginia",
+        "Rank": 63
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ruth",
+        "Rank": 60
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Carmen",
+        "Rank": 56
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Frances",
+        "Rank": 55
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Dorothy",
+        "Rank": 50
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Josephine",
+        "Rank": 44
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Alice",
+        "Rank": 39
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mildred",
+        "Rank": 33
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Elizabeth",
+        "Rank": 32
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Bertha",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Nellie",
+        "Rank": 30
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Evelyn",
+        "Rank": 29
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Julia",
+        "Rank": 28
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Betty",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Beatrice",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Dolores",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Irene",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lupe",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Jessie",
+        "Rank": 24
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Esther",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Martha",
+        "Rank": 23
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Barbara",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lucy",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Emma",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Marie",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Anita",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Anna",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Antonia",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Grace",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rose",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Consuelo",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Eva",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Gladys",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Guadalupe",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Hazel",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lillian",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Victoria",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Celia",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Pauline",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Amelia",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Dora",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Edna",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Louise",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rosa",
+        "Rank": 16
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Annie",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Jean",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Juanita",
+        "Rank": 15
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Aurora",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Francisca",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Jennie",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lois",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Margarita",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Vivian",
+        "Rank": 14
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Clara",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Edith",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ellen",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Elsie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ethel",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Florence",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Isabel",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Jane",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Marjorie",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rachel",
+        "Rank": 13
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Bessie",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Connie",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Doris",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Olga",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Thelma",
+        "Rank": 12
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Angela",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lola",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Minnie",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Patricia",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ruby",
+        "Rank": 11
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Concha",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Eleanor",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Genevieve",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Laura",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lena",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mercedes",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Myrtle",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Teresa",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Vera",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Wilma",
+        "Rank": 10
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Agnes",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Angie",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Armida",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Aurelia",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Bernice",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Charlotte",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Eloisa",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Elvira",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Inez",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "June",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mae",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Maxine",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Paula",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Petra",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rita",
+        "Rank": 9
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Adela",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Alicia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Amalia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ann",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Catherine",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Cruz",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Esperanza",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Gertrude",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Marion",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Natalia",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Sara",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Sarah",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Sophie",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Theresa",
+        "Rank": 8
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Amy",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Angelina",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Bonnie",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Concepcion",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Delfina",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Delia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Della",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Emily",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Henrietta",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Herminia",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Josefina",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Katherine",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lucille",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Manuela",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Olive",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Pearl",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Sally",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Violet",
+        "Rank": 7
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Adeline",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Anne",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Carlota",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Caroline",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Catalina",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Cecilia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Effie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Flora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Herlinda",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Janet",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Joan",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lorraine",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lydia",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Maggie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Nora",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Norma",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Phyllis",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rafaela",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ramona",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Rebecca",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Stella",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Susie",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Trinidad",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Velma",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Verna",
+        "Rank": 6
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Ada",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Alberta",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Alma",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Andrea",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Angelita",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Artemisa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Beatriz",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Carol",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Carrie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Elisa",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Eloise",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Estella",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Faye",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Georgia",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Hope",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Juana",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Kathleen",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Kathryn",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Librada",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Lillie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mabel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mamie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Marguerite",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Mariana",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Melba",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Merle",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Muriel",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Nettie",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Refugio",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1917,
+        "Name": "Socorro",
+        "Rank": 5
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Mary",
+        "Rank": 272
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Maria",
+        "Rank": 97
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Carmen",
+        "Rank": 77
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Virginia",
+        "Rank": 77
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Margaret",
+        "Rank": 72
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Helen",
+        "Rank": 67
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Dorothy",
+        "Rank": 61
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Frances",
+        "Rank": 60
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Ruth",
+        "Rank": 58
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Alice",
+        "Rank": 57
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Lupe",
+        "Rank": 48
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Josephine",
+        "Rank": 46
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Julia",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Rose",
+        "Rank": 35
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Betty",
+        "Rank": 32
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Elizabeth",
+        "Rank": 32
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Eva",
+        "Rank": 32
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Dolores",
+        "Rank": 31
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Eleanor",
+        "Rank": 31
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Nellie",
+        "Rank": 29
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Anita",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Louise",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Mildred",
+        "Rank": 27
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Consuelo",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Dora",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Isabel",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Marjorie",
+        "Rank": 26
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Anna",
+        "Rank": 25
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Evelyn",
+        "Rank": 24
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Grace",
+        "Rank": 24
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Amelia",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Bertha",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Martha",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Sarah",
+        "Rank": 22
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Beatrice",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Lucy",
+        "Rank": 21
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Barbara",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Edna",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Teresa",
+        "Rank": 20
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Emma",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Jennie",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Lucille",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Lydia",
+        "Rank": 19
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Antonia",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Esther",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Ethel",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Irene",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Manuela",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Marie",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Rita",
+        "Rank": 18
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Guadalupe",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Jean",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Jessie",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Patricia",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Rosa",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Ruby",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Socorro",
+        "Rank": 17
+    },
+    {
+        "State": "AZ",
+        "Gender": "F",
+        "Year": 1918,
+        "Name": "Clara",
+        "Rank": 16
+    }
+]
